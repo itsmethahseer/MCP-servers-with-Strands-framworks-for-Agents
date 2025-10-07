@@ -15,5 +15,5 @@ with streamable_http_mcp_client:
     
     # ✨ THIS IS WHAT'S MISSING ✨
     # You need to actually invoke the agent with a task
-    response = agent("can you calculate my age in days since i born in 2001 June 23")  # or agent.chat(), agent.execute(), etc.
+    response = agent("who is the president of india?")  # or agent.chat(), agent.execute(), etc.
     print(response)
