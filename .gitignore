@@ -3,3 +3,9 @@ myenv/
 enc/
 __pycache__/
 *.pyc
+elevenlabs_twilio/audio_files/
+elevenlabs_twilio/recordings/
+elevenlabs_twilio/conversation_details_new.json
+elevenlabs_twilio/conversation_details.json
+elevenlabs_twilio/conversation_details2.json
+elevenlabs_twilio/conversation_details4.json
